@@ -1,0 +1,15 @@
+﻿
+@model  IEnumerable<Training3Lab.Models.StudentCourse>
+@{
+    ViewData["Title"] = "StudentCourseInfo";
+}
+
+<h2>StudentCourseInfo</h2>
+@foreach (var s in Model)
+{
+
+@s.StudentName<br />
+@s.CourseName<br />
+@s.Marks<br />
+}
+
