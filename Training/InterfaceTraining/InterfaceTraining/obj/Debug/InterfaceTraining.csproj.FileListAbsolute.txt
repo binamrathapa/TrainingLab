@@ -1,0 +1,9 @@
+D:\Binod Document\Training\InterfaceTraining\InterfaceTraining\bin\Debug\InterfaceTraining.exe.config
+D:\Binod Document\Training\InterfaceTraining\InterfaceTraining\bin\Debug\InterfaceTraining.exe
+D:\Binod Document\Training\InterfaceTraining\InterfaceTraining\bin\Debug\InterfaceTraining.pdb
+D:\Binod Document\Training\InterfaceTraining\InterfaceTraining\obj\Debug\InterfaceTraining.csprojResolveAssemblyReference.cache
+D:\Binod Document\Training\InterfaceTraining\InterfaceTraining\obj\Debug\InterfaceTraining.Form1.resources
+D:\Binod Document\Training\InterfaceTraining\InterfaceTraining\obj\Debug\InterfaceTraining.Properties.Resources.resources
+D:\Binod Document\Training\InterfaceTraining\InterfaceTraining\obj\Debug\InterfaceTraining.csproj.GenerateResource.Cache
+D:\Binod Document\Training\InterfaceTraining\InterfaceTraining\obj\Debug\InterfaceTraining.exe
+D:\Binod Document\Training\InterfaceTraining\InterfaceTraining\obj\Debug\InterfaceTraining.pdb
